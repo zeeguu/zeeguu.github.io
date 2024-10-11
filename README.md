@@ -1,3 +1,7 @@
+---
+title: Zeeguu Wiki
+---
+
 ![](uploads/orange-elephant-left.png)
 
 # The Zeeguu Wiki
