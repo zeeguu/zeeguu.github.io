@@ -1,0 +1,6 @@
+{
+  "attachmentFolderPath": "./uploads",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative"
+}
