@@ -1,6 +1,3 @@
----
-title: Zeeguu Wiki
----
 
 ![](uploads/orange-elephant-left.png)
 
