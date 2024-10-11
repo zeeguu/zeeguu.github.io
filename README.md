@@ -1,8 +1,8 @@
-![[uploads/orange-logo.png]]
+![](uploads/orange-elephant.png)
 
 # The Zeeguu Wiki
 
-This is a place where we write articles related to Zeeguu. They may be solutions to problems, ideas, experience reports, etc. It's a knowledge repository. 
+This is a place where you learn about Zeeguu, the platform, the usage, and it's implementation. You might find details about how we solved various challenges in its implementation, ideas of future directions, learner experience reports, etc. It is a knowledge repository. 
 
 
 
