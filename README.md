@@ -1,4 +1,4 @@
-![](uploads/orange-elephant.png)
+![](uploads/orange-elephant-small.png)
 
 # The Zeeguu Wiki
 
