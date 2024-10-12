@@ -12,11 +12,15 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 - [How do we detect topics for articles?](./topic-detection)
 
 
+
 ## Development
 
 - [Roadmap](roadmap.md)
 
 
+## Other Notes
+
+- [Streaks for Motivation](streaks-for-motivation.md)
 
 
 
