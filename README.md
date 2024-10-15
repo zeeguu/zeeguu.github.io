@@ -11,7 +11,7 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 - Estimating article difficulty
 - [Detecting topics of articles](./topic-detection)
 - Scheduling words for practice
-- [Automatically generating exercises based on past translations and context](./generating-exercises)
+- Automatically [generating exercises](./generating-exercises) based on past translations and context
 
 
 
