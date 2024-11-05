@@ -24,6 +24,9 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 
 - [Streaks for Motivation](streaks-for-motivation.md)
 
+## Studies
+
+- [How to find participants for studies](./finding-participants.md) 
 
 
 
