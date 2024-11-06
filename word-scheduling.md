@@ -1,4 +1,17 @@
+# Word Scheduling 
+
 Many decisions have to be taken when designing the exercises in Zeeguu. Taking notes of some of them here. 
+
+
+The complexity is given by the fact that
+- we have multiple types of exercises 
+	- with different difficulty levels
+	- testing different skills
+- the words to be studied are queued automatically as the user translates things
+
+
+
+
 
 Is it good or bad that you arrive some days and "there's no words for you"?
 
