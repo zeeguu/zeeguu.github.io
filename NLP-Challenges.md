@@ -11,10 +11,9 @@ Better exercises
 - Generating textual-knowledge questions 
 - Detecting *particle verbs* (and similar particles) reliably so we can highlight them correctly when translating
 
-
 Content Recommendations
 - Fine-grained interest discovery
 - Video / audio recommendations
 
-
-
+Chat agents
+- that adapt to the current learner level and interests
