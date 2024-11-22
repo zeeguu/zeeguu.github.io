@@ -23,6 +23,7 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 ## Other Notes
 
 - [Streaks for Motivation](streaks-for-motivation.md)
+- [NLP-Challenges](NLP-Challenges.md)
 
 ## Studies
 
