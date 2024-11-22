@@ -14,6 +14,8 @@ Better exercises
 Content Recommendations
 - Fine-grained interest discovery
 - Video / audio recommendations
+- Content-filtering - the student who wanted "not to see articles about people dyeing"
+- Main-content extraction from web articles (the last 5%)
 
 Chat agents
 - that adapt to the current learner level and interests
