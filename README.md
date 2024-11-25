@@ -5,7 +5,6 @@
 
 
 This is a place where you learn about Zeeguu, the platform, the [vision](vision.md), the usage, and it's implementation. You might find details about how we solved various challenges in its implementation, ideas of future directions, learner experience reports, etc. It is a knowledge repository. 
-
 ## How does Zeeguu Work?
 
 - Estimating article difficulty
@@ -13,7 +12,9 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 - [Scheduling words for practice](./word-scheduling.md)
 - Automatically [generating exercises](./generating-exercises) based on past translations and context
 
+## Articles About Zeeguu
 
+[AsWeMayStudy (pdf)](uploads/!AsWeMayStudy--Preprint.pdf) - paper published in CHI'18 in which we report on a short longitudinal quasy-in the wild study with highschool students learning French and reading with Zeeguu.
 
 ## Development
 
