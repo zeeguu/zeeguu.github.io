@@ -14,7 +14,7 @@ This is a place where you learn about Zeeguu, the platform, the [vision](vision.
 
 ## Articles About Zeeguu
 
-[AsWeMayStudy (pdf)](uploads/!AsWeMayStudy--Preprint.pdf) - paper published in CHI'18 in which we report on a short longitudinal quasy-in the wild study with highschool students learning French and reading with Zeeguu.
+[As We May Study: Towards the Web as a Personalized Language Textbook (pdf)](uploads/!AsWeMayStudy--Preprint.pdf) - paper published in CHI'18 in which we report on a short longitudinal quasy-in the wild study with highschool students learning French and reading with Zeeguu.
 
 ## Development
 
