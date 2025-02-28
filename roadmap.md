@@ -2,6 +2,10 @@
 
 The following are, as of yet, categorized but *unprioritized* directions. 
 
+## Improvements
+- language-independent paywall detection using BERT embeddings
+- 
+
 
 ## Features
 - Add support for finding social media and video content
