@@ -1,9 +1,9 @@
 # Roadmap
 
-The following are, as of yet, categorized but *unprioritized* directions. 
+The following are, as of yet, categorized but *unprioritized* directions:
 
 ## Crawler
-- language-independent paywall detection using BERT embeddings
+- Language-independent paywall detection using BERT embeddings
 - Add support for finding social media and video content
 
 
