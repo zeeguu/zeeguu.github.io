@@ -22,3 +22,7 @@ The following are, as of yet, categorized but *unprioritized* directions:
 - Unify the code for the two readers
 
 
+## Recommendations
+- better personalization
+- 
+
